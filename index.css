@@ -32,6 +32,7 @@ p {
 
 button {
     outline: 0 !important;
+    font-family: 'Arial Narrow Bold';
     display: flex;
     justify-content: center;
     align-content: center;
